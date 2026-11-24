@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "ng": "ng",
-    "start": "ng serve --port 4215",
+    "start": "node scripts/dev.mjs payroll 4314",
     "build": "ng build"
   },
   "dependencies": {
